@@ -8,7 +8,7 @@ import Seaction from './components/seaction/Seaction'
 
 function App() {
   return (
-    <div className='container border'>
+    <div className='container'>
       <Navabr />
       <Header/>
       <Seaction/>
